@@ -6,10 +6,13 @@ class Morpion:
 
     def afficher(self):
         """Affiche le plateau de jeu."""
+        """j ajout un deuxieme."""
+
         pass
 
     def jouer_coup(self, ligne, colonne):
         """ Code pour jouer un coup """
+        """ j ajoute un deuxieme """
         pass
 
     def jouer(self):
