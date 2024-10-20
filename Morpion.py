@@ -14,7 +14,3 @@ class Morpion:
         """ Code pour jouer un coup """
         """ j ajoute un deuxieme """
         pass
-
-    def jouer(self):
-        """ Code pour gérer le jeu"""
-        pass
