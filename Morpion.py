@@ -12,10 +12,6 @@ class Morpion:
         """ Code pour jouer un coup """
         pass
 
-    def changer_joueur(self):
-        """ Code pour changer de joueur """
-        pass
-
     def jouer(self):
         """ Code pour gérer le jeu"""
         pass
